@@ -1,7 +1,4 @@
-# OIBSIP
-
-Oasis InfoByte 
-
+# Bsic Projects
 Level- 1 Tasks
 
 Task 1- LandingPage
