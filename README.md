@@ -1,4 +1,4 @@
-# Bsic Projects
+# Basic Projects
 Level- 1 Tasks
 
 Task 1- LandingPage
